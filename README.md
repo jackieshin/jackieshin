@@ -5,9 +5,9 @@
 </p>
 
 
-
-https://github.com/user-attachments/assets/dcea7727-bef6-4a1d-9b60-6ca4ea930d8f
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcea7727-bef6-4a1d-9b60-6ca4ea930d8f"style="width: 100%; height: auto;" />
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/z99t4q.png"style="width: 100%; height: auto;" />
