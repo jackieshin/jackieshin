@@ -4,8 +4,11 @@
   </a>
 </p>
 
-https://github.com/user-attachments/assets/dcea7727-bef6-4a1d-9b60-6ca4ea930d8f
+<p align="center">
+  <img src="https://files.catbox.moe/jd8tw5.png"style="width: 40%; height: auto;" />
+</p>
+
 
 <p align="center">
-  <img src="https://files.catbox.moe/z99t4q.png"style="width: 100%; height: auto;" />
+  <img src="https://files.catbox.moe/dpqoaw.png"style="width: 100%; height: auto;" />
 </p>
