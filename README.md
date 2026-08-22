@@ -3,7 +3,7 @@
   <img src="https://files.catbox.moe/bng210.png"style="width: 100%; height: auto;" />
 </p>
 <p align="center">
-<img src="https://hits.sh/github.com/haidaware/hits.svg?label=yupjuns&extraCount=12240&color=719BDE&labelColor=D8E6DC"> <image src="https://files.catbox.moe/aeln15.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/jackieshin?style=flat&label=mountains&labelColor=D8E6DC&color=719BDE">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=yupjuns&color=719BDE&labelColor=D8E6DC"> <image src="https://files.catbox.moe/aeln15.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/jackieshin?style=flat&label=mountains&labelColor=D8E6DC&color=719BDE">
   
 <p align="center">
   <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="210" height="410" align="left" />
