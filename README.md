@@ -17,7 +17,6 @@
 <details>
   <summary>$$\color{#9FBDDD}\text{"\ 사랑하는\ 당신이\ 나를\ 괴롭히고\ 있지\ !\ "\ ⊹ ࣪ ˖ ໒꒱}$$</summary>
   <br>
-  hi
   </details>
 </div>
     <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="200" />
