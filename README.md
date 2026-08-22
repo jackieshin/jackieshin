@@ -15,7 +15,7 @@
 <img src="https://files.catbox.moe/uhgf3s.png" alt="nya" width="400" height="30" />
         <div align="center">
 <details>
-  <summary>$$\color{#9FBDDD}\text{links\ ⊹ ࣪ ˖ ໒꒱}$$</summary>
+  <summary>$$\color{#9FBDDD}\text{"\ 사랑하는\ 당신이\ 나를\ 괴롭히고\ 있지\ !\ "\ ⊹ ࣪ ˖ ໒꒱}$$</summary>
   <br>
   hi
   </details>
