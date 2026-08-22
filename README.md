@@ -4,17 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="260" height="460" align="left" />
-
- <span align="center">
-    <table>
-      <tr>
-        <th>
-          $\color{BCD1DC}\normalsize{\texttt{“ 산 속의 일을 마땅이 알고 있을 테지 . 그래 두견화가 피었더냐 ? “}}$ <br>
-        </th>
-      </tr>
-    </table>
-    <br>   
+  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="210" height="410" align="left" />
+  
     
 
   <a href="https://github.com/kittinan/spotify-github-profile">
