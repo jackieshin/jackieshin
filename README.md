@@ -5,8 +5,23 @@
 
 
 <p align="left">
-  <img src="https://files.catbox.moe/s78zct.png"style="width: 50%; height: auto;" />
+  <img src="https://files.catbox.moe/s78zct.png"style="width: 50%; height: auto;"  />
+  
+  <div align="left">
+  <table>
+  <tr>
+    <th>
+      $\color{BCD1DC}\normalsize{\texttt{“ 산 속의 일을 마땅이 알고 있을 테지 “}}$ <br>
+     $\color{5B8BDF}\normalsize{\texttt{“ 그래 두견화가 피었더냐 ? “}}$ <br> 
+    </th>
+  </tr>
+  </table>
+</details>
+</div>
 </p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
