@@ -3,9 +3,12 @@
   <img src="https://files.catbox.moe/bng210.png"style="width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="300" height="600" style="margin-right: 10px;" />
+  <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="200" />
+</p>
 
-<p align="left">
-  <img src="https://files.catbox.moe/s78zct.png"style="width: 50%; height: auto;"  />
+  
   
   <div align="left">
   <table>
