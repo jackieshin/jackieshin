@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="300" height="600" style="margin-right: 10px;" />
+  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="200" height="400" style="margin-right: 10px;" />
   <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="200" />
 </p>
 
