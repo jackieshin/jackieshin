@@ -7,13 +7,13 @@
   <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="210" height="410" align="left" />
   
     
-
+<div align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=6F9ADE&bar_color_cover=false">
   </a>
 </p>
 <img src="https://files.catbox.moe/uhgf3s.png" alt="nya" width="400" height="30" />
-        <div align="center">
+        <div align="left">
 <details>
   <summary>$$\color{#9FBDDD}\text{"\ 사랑하는\ 당신이\ 나를\ 괴롭히고\ 있지\ !\ "\ ⊹ ࣪ ˖ ໒꒱}$$</summary>
   <br>
