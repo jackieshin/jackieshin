@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="270" height="470" align="left" />
+  <img src="https://files.catbox.moe/s78zct.png" alt="shin" width="260" height="460" align="left" />
 
  <span align="center">
     <table>
@@ -28,7 +28,7 @@
   hi
   </details>
 </div>
-    <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="230" />
+    <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="200" />
   </span>
 </p>
 <br clear="left" />
