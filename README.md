@@ -27,7 +27,12 @@
 
 
 <p align="center">
-  <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/44ol1r.png" alt="Border 1"width="130" height="95 />   
+  <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/44ol1r.png" alt="hi" width="130" height="95"></a>
+  <a href="https://khomedy.atabook.org/"><img src="https://files.catbox.moe/88dwep.png" alt="hi" width="130" height="95"></a>
+  <a href="https://pronouns.cc/@meas"><img src="https://files.catbox.moe/nxr1dc.png" alt="hi" width="130" height="95"></a>
+  <a href="https://fluffle.cc/itimatusuzuka"><img src="https://files.catbox.moe/6eco7i.png" alt="hi" width="130" height="95"></a>
+</p>
+ 
   
 </p>
 
