@@ -26,7 +26,9 @@
 <br clear="left" />
 
 
-
+<p align="center">
+  <a href="https://khomedy.straw.page/"><img src="https://files.catbox.moe/44ol1r.png" alt="Border 1"width="130" height="95 /></a>
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/hqoqvx.png"style="width: 100%; height: auto;" />
