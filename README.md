@@ -21,7 +21,7 @@
   <br>
   </details>
 </div>
-    <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="200" />
+    <img src="https://files.catbox.moe/tpx7pe.png" alt="👀" width="400" height="213" />
   </span>
 </p>
 <br clear="left" />
